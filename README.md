@@ -1,8 +1,8 @@
 # Cheat sheet for Flutter's `Offset.direction` angles
 
-This is a simple cheat sheet for keeping sane when drawing stuff using [Path](https://api.flutter.dev/flutter/dart-ui/Path-class.html) and [Offset](https://api.flutter.dev/flutter/dart-ui/Offset-class.html) in Flutter.
+This is a simple cheat sheet to help you stay sane when drawing stuff using [Path](https://api.flutter.dev/flutter/dart-ui/Path-class.html) and [Offset](https://api.flutter.dev/flutter/dart-ui/Offset-class.html) in Flutter.
 
-[Documentation for Offset.direction](https://api.flutter.dev/flutter/dart-ui/Offset/direction.html)
+From the documentation for [Offset.direction](https://api.flutter.dev/flutter/dart-ui/Offset/direction.html):
 
 > The angle of this offset as radians clockwise from the positive x-axis, in the range -pi to pi, assuming positive values of the x-axis go to the left and positive values of the y-axis go down.
 > 
